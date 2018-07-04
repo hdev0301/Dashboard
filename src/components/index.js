@@ -1,4 +1,4 @@
-import Header ferom './Header';
+import Header from './Header';
 import Sidebar from './Sidebar';
 
 export {
